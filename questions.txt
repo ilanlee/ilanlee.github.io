@@ -1,0 +1,2 @@
+1. In "Main", how do I set the video frame the remain as it is for small devices, but for medium it centers in middle of a 3x3 grid and for large+ it centers in the middle of a 4x4 grid?
+2. 
