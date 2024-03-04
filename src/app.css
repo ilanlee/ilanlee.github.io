@@ -23,8 +23,10 @@ span {
 }
 
 .bgGrid {
-    background-size: 15px 15px;
-    background-image: linear-gradient(to right, blue 2px, transparent 1px), linear-gradient(to bottom, black 1px, transparent 1px);
+  background-size: 1px 1px; /* Adjust grid unit size as needed */
+  background-image: 
+    linear-gradient(to bottom right, gray 5px, transparent 5px), 
+    linear-gradient(to top left, black 5px, transparent 5px);
 }
 
 button,
@@ -135,3 +137,35 @@ button:focus-visible {
     height: 100%;
   }
 /*end of youtube iframe fitting every screen */
+
+/* DIagonal Background*/
+
+.bg-diagonal {
+    position: relative; /* Stack elements for overlapping */
+  }
+  
+  .bg-diagonal::before,
+  .bg-diagonal::after {
+    content: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-repeat: space-x; /* Repeat stripes horizontally */
+  }
+  
+  .bg-diagonal::before {
+    background-color: blue; /* Adjust colors as needed */
+  }
+  
+  .bg-diagonal::after {
+    background-color: white; /* Adjust colors as needed */
+  }
+  
+  .diagonal-stripe {
+    width: 4px; /* Adjust thickness of stripes */
+    background-color: gray; /* Adjust gray color as needed */
+    transform: rotate(45deg); /* Rotate for diagonal lines */
+  }
+  

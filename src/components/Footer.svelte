@@ -5,25 +5,25 @@
 <footer class="py-1 sm:py-5 md:py-8 px-10 md:px-8" id="footer">
   <div class="max-w-[1200px] mx-auto w-full grid grid-cols-2 gap-8 text-base justify-items-center">
       <div class="flex flex-col gap-4">
-          <p class="font-bold poppins text-base sm:text-lg">Support</p>
-          <a href="./" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">Contact Us</a>
+          <p class="text-center font-bold poppins text-base sm:text-lg">Support</p>
+          <a href="mailto:brheako@gmail.com" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">Contact Us</a>
       </div>
-      <div class="flex flex-col gap-4">
-          <p class="font-bold poppins text-base sm:text-lg">Follow Me</p>
-          <div class="flex gap-2">
+      <div class="flex grid gap-4 grid-row-5">
+          <p class="text-center font-bold poppins text-base sm:text-lg">Follow Me</p>
+          <div class="grid-col flex gap-2 ">
             <a href="https://www.youtube.com/@MuseBrheako" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200 w-full">
               <i class="fa-brands fa-youtube pr-2" />YouTube</a>
-            <a href="./" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200 w-full">
+            <a href="./" target="_blank" class="flex cursor-pointer hover:text-indigo-400 duration-200 w-full">
               <i class="fa-brands fa-instagram pr-2" />
               Instagram
             </a>
           </div>
-          <div class="flex gap-2">
-              <a href="./" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200 w-full">
+          <div class="grid-col flex gap-2">
+              <a href="./" target="_blank" class="flex cursor-pointer hover:text-indigo-400 duration-200 w-full">
               <i class="fa-brands fa-facebook pr-2" />
               Facebook
             </a>
-            <a href="https://twitter.com/MuseBrheako" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200 w-full">
+            <a href="https://twitter.com/MuseBrheako" target="_blank" class="flex cursor-pointer hover:text-indigo-400 duration-200 w-full">
               <i class="fa-brands fa-twitter pr-2" />
               Twitter
             </a>
