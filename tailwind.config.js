@@ -4,5 +4,6 @@ export default {
   theme: {
     extend: {}
   },
-  plugins: []
+  plugins: [require('tailwindcss-bg-patterns'),] /* the text inside [] was added after npm install --save-dev tailwindcss-bg-patterns
+ */
 };

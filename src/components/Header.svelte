@@ -2,7 +2,7 @@
     import { openModal } from "../store";
 </script>
 
-<header class="flex flex-col relative z-20 bg-gradient-to-br from-gray-200 to-blue-500">
+<header class="flex flex-col relative z-20">
     <div
         class="max-w-[1400px] mx-auto w-full flex items-center justify-center p-4 py-7"
     >

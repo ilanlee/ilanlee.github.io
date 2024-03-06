@@ -23,10 +23,9 @@ span {
 }
 
 .bgGrid {
-  background-size: 1px 1px; /* Adjust grid unit size as needed */
-  background-image: 
-    linear-gradient(to bottom right, gray 5px, transparent 5px), 
-    linear-gradient(to top left, black 5px, transparent 5px);
+    background-size: 40px 40px;
+    background-image:   linear-gradient(to right, grey 1px, transparent 1px),
+                        linear-gradient(to bottom, grey 1px, transparent 1px);
 }
 
 button,
@@ -168,4 +167,3 @@ button:focus-visible {
     background-color: gray; /* Adjust gray color as needed */
     transform: rotate(45deg); /* Rotate for diagonal lines */
   }
-  

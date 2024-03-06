@@ -1,2 +1,5 @@
 1. In "Main", how do I set the video frame the remain as it is for small devices, but for medium it centers in middle of a 3x3 grid and for large+ it centers in the middle of a 4x4 grid?
-2. 
+2. How do I configure Sitemaps & Robots.txt ? Is there anything else?
+3. I was able to create the Games and GamesCard the operate. But how do I make the entire thing dynamic? Lets say I have a list of games, I want each time 6 games to be chosen randomly and shown.
+4. When scrolling down, and the header appears permanent - the bg is white instead of bgGrid. Why?
+5. 
