@@ -9,7 +9,7 @@
         {
             name: "FermoShak",
             imgUrl: "assets/coops/fermoshak.png",
-            info: "FermoShak's info.",
+            info: "When Fermoshak isn't conquering virtual worlds, he can be found pouring over architectural blueprints, planning their next travel adventure, or simply soaking up the beauty of nature. This well-rounded gamer brings a unique perspective to everything they do, whether it's strategizing the perfect build or appreciating the intricate design of a real-world landmark.",
             games: [
                 "Horizon",
                 "DMZ",
@@ -19,7 +19,7 @@
         {
             name: "SNIP",
             imgUrl: "assets/coops/snip.png",
-            info: "SNIPs info.",
+            info: "SNIP isn't your typical streamer. By day, he dives into the fascinating world of machine learning, but when he hits 'go live,' his loyal companion Argo might steal the show! This streamer isn't afraid to bring the outdoors in, with breaks featuring epic dog walks or even incorporating Argo into his gameplay (think voice commands for in-game actions!). But SNIP's adventures extend far beyond the screen. When he's not gaming, he takes the plunge into the real world with a passion for scuba diving.  Imagine this: SNIP strategizing his next in-game move, then cutting to a breathtaking underwater scene where he's exploring a vibrant coral reef with Argo waiting patiently on the boat. SNIP's channel offers a unique blend of gaming passion, technological expertise, and a healthy dose of doggone fun, all wrapped up with a love for adventure above and below the surface.",
             games: [
                 "Horizon",
                 "DMZ",
@@ -29,7 +29,7 @@
         {
             name: "Devoted Princess",
             imgUrl: "assets/coops/devotedprincess.png",
-            info: "Devopted Princess' info.",
+            info: "Devoted Princess might throw you off at first. This streamer isn't your typical royalty; he reigns supreme in the world of first-person shooters. But beneath the in-game bravado lies a dedicated friend who cherishes his online community. When Devoted Princess isn't dominating the virtual battlefield, you can find him lacing up his shoes and hitting the pavement for a good run. He might even share his scenic jogs with the stream, offering a breath of fresh air between epic firefights. Devoted Princess's channel is a place for camaraderie, competitive spirit, and a healthy dose of #fitstreamer vibes.",
             games: [
                 "Warzone",
                 "Tony Hawk's Pro Skater 2",
